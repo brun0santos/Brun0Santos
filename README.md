@@ -2,7 +2,7 @@
 
 ## My name is Bruno Santos
 Java | Spring Boot | Go | Kotlin | AWS 🥷🏻
-- 👩‍💻 Software Enginner @[ZUP](https://zup.com.br/)
+- 👩‍💻 Software Enginner
 - 🎓 Bachelor's Degree in Information Systems
 - 💡Deep interest in Software Architecture, System Design and DevOps practices
 
